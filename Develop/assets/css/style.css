@@ -1,11 +1,12 @@
+/***GLOBAL STYLING***/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
+body{
+    background-color:  #d9dcd6;
 }
 
 /***HEADER***/
@@ -39,11 +40,10 @@ header div ul li {
     list-style-type: none;
 }
 
-a {
+header a {
     color: #ffffff;
     text-decoration: none;
 }
-/***END HEADER***/
 
 /***COVER IMAGE***/
 #cover img{
@@ -51,17 +51,13 @@ a {
     width: 100%;
     margin-bottom: 25px;
 }
-/***END COVER IMAGE***/
 
 /***MAIN***/
-p {
-    font-size: 16px;
-}
-
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    font-size: 16px;
 }
 
 main section {
@@ -91,9 +87,8 @@ main h2 {
     float: right;
     margin-left: 25px;
 }
-/***END MAIN***/
 
-/***ASIDE***/
+/***RIGHT SIDE PANEL***/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +115,6 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-/***END ASIDE***/
 
 /***FOOTER***/
 footer {
@@ -133,4 +127,3 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/***END FOOTER***/
