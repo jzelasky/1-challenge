@@ -7,3 +7,5 @@ The CSS was repetitive and disorganized, so like in the HTML it was difficult to
 I added semantic elements to the HTML to make it easier to read so if any structural changes need to made in the future, it will take less time. I reorganized the CSS to match the structure of the HTML and removed unnecessary repetitive code. 
 
 To use this webpage either scroll down the page to read the different sections or click the links at the top of the page to jump to a specific section. 
+
+![Screenshot of deployed webpage](./assets/images/jzelasky.github.io_1-challenge_.png)
