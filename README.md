@@ -8,4 +8,6 @@ I added semantic elements to the HTML to make it easier to read so if any struct
 
 To use this webpage either scroll down the page to read the different sections or click the links at the top of the page to jump to a specific section. 
 
+Go to: https://jzelasky.github.io/1-challenge/
+
 ![Screenshot of deployed webpage](./assets/images/jzelasky.github.io_1-challenge_.png)
